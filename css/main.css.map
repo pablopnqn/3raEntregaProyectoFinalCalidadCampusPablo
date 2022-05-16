@@ -1,0 +1,17 @@
+{
+    "version": 3,
+    "mappings": "ACMA,UAAU;ACNV,AAAA,CAAC,CAAA;EACG,WAAW,EAAE,wBAAwB;EACrC,MAAM,EAAE,EAAE;EACV,OAAO,EAAE,EAAE;CACd;;AAGD,AAAA,KAAK,CAAA;EACD,OAAO,EAAE,IAAI;EACb,MAAM,EAAC,IAAI;CAEd;;ACXD,AAAA,OAAO,CAAA;EACH,SAAS,EFkBA,IAAI;CEjBhB;;AGFD,AAAA,WAAW,CAAA;EACP,SAAS,ELiBE,IAAI;CKdlB",
+    "sources": [
+        "main.scss",
+        "base/_variables.scss",
+        "components/_header.scss",
+        "components/_mainSubpaginas.scss",
+        "components/_contacto.scss",
+        "components/_footer.scss",
+        "components/_index.scss",
+        "components/_ubicacion.scss",
+        "components/_academia.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
